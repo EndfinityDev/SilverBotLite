@@ -1,0 +1,12 @@
+{
+    "checknsfw:[url]" : "Checks the image from url for NSFW content",
+    "generatetext:[prompt]" : "Generates a text based on the promt",
+    "summarize:[text]" : "Summarizes the provided text",
+    "sentiment:[text]" : "Identifies the text's sentiment",
+    "generateimage:[prompt]": "Generates an image based on the prompt",
+    "finddifference:[url];[url]": "Finds the difference between two images",
+    "keywords:[text]": "Picks out key words from the text",
+    "upscalewifu:[url]" : "Upscales provided image",
+	"lorem ipsum" : "Generates lorem ipsum",
+	"printquote" : "Outputs a random out-of-context quote"
+}
