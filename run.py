@@ -31,8 +31,6 @@ async def on_ready():
     global COMMON_ROLE
     global ADMIN_ROLE
     global QUOTES_CHANNEL
-    global RP_CHANNEL
-    global rpm
     global ARGCOMMANDS
     print(f'{client.user} is ready!')
     print('Server ID: ' + str(SERVER_ID))
